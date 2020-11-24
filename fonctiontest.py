@@ -1,0 +1,4 @@
+
+def ici() :
+    print("bjr")
+    
